@@ -34,4 +34,14 @@
         tools:layout_editor_absoluteX="95dp"
         tools:layout_editor_absoluteY="147dp" />
 
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="phone"
+        android:text="Enter Phone Number "
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="222dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
